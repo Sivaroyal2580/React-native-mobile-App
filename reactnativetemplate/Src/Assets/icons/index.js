@@ -1,0 +1,7 @@
+export const HOME =require('./Home.png')
+export const PROFILE =require('./profile.png')
+export const ABOUT =require('./about.png')
+export const SETTINGS =require('./Settings.png')
+export const TERMS =require('./terms.png')
+export const PRIVACY =require('./privacy.png')
+export const BACK =require('./Back.png')
