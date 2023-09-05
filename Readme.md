@@ -1,1 +1,0 @@
-Templetes for devs
